@@ -1,0 +1,4 @@
+name: StablePets
+main: com.github.byrnorthil.stablepets.StablePets
+version: 1.0-SNAPSHOT
+api-version: 1.16
